@@ -1,5 +1,12 @@
 Esta es la preparacion de la clase de git
 Esta clase es para 25 estudiantes
+Esta clase es para 5 estudiantes
+Andres 
+camilo
+paramo
+joel
+jhonatan
+
 y para la especializacion 
 desarrollo de aplicaciones moviles 
 
